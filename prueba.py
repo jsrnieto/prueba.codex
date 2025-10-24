@@ -1,0 +1,1 @@
+# Generar un templete basico de django con clean archiytecture
