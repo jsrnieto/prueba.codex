@@ -1,1 +1,1 @@
-# Generar un templete basico de django con clean archiytecture
+# Generar un template basico de Django con clean architecture
